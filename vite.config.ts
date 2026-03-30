@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
 export default defineConfig(() => ({
-  base: '/nightlight.llc/',
+  base: '/',
   server: {
     host: "::",
     port: 8080,
